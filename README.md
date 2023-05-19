@@ -1,16 +1,13 @@
-### Hi there 👋
+oii baby
 
-<!--
-**mariaatomas/mariaatomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+me chamo maju, prazer
+estou  usandom alura
 
-Here are some ideas to get you started:
+estou aprendendo usar o alura e estudando  na linguagem  javascript
+usar essas coisas e´ uma parada maluca
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 uso esse espaço para ter minhas organizaça e enviar meus projetos desenvolvidos 
+caso quira entrar em contato comigo 
+@majuu.tomas
+
+maria.ferreira.francisco@escola.pr.gov.br
